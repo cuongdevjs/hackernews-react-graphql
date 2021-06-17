@@ -90,7 +90,7 @@
     "jest-enzyme": "7.0.2",
     "mockdate": "2.0.2",
     "nodemon": "1.18.10",
-    "postcss": "7.0.14",
+    "postcss": "7.0.36",
     "postcss-preset-env": "6.6.0",
     "prettier": "1.16.4",
     "react-test-renderer": "16.8.5",
