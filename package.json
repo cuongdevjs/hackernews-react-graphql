@@ -44,7 +44,7 @@
     "debug": "4.1.1",
     "dotenv": "7.0.0",
     "express": "4.16.4",
-    "express-session": "1.15.6",
+    "express-session": "1.17.3",
     "firebase": "5.9.2",
     "graphql": "14.2.1",
     "graphql-tag": "2.10.1",
